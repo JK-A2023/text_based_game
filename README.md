@@ -53,4 +53,8 @@
       2.  This will NOT end your round
 
 
-5.  Enjoy :) Please let me know of any bugs you find / improvements to make. Thank you!
+5.  To play, cd into classes, and run `python game.py`
+
+
+6.  Enjoy :) Please let me know of any bugs you find / improvements to make. Thank you!
+
